@@ -87,7 +87,7 @@ To run the Crypto Verse Website locally, follow these steps:
 
 ## Deployment
 
-The app is deployed on **Netlify**, ensuring fast and reliable performance. To visit: [Crypto Verse Website](https://3d-crypto-verse.netlify.app/).
+The app is deployed on **Netlify**, ensuring fast and reliable performance. To visit: [Crypto Verse Website](https://crypto-verse3d.netlify.app/).
 
 ## License
 
